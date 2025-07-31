@@ -50,7 +50,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
 local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
-}
+
 
 loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
   })
